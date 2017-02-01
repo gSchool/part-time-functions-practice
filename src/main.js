@@ -87,7 +87,6 @@
 
 // C. Create a die rolling function called twoDiceResult that accepts no parameters.
 //     It rolls two six-sided-dice, adds the two numbers together, and returns a roll value.
-//     Display the result in the HTML page.
 //     To get the random number rolled by each die, use Math.random and Math.floor.
 
 
@@ -97,7 +96,6 @@
 
 // E. Write a function called leapYear that takes a year from a user
 //    and reports whether or not it is a leap year.
-//    Display the result in the HTML page.
 //    Remember, a leap year occurs:
 //        On every year that is evenly divisible by 4
 //        Except every year that is evenly divisible by 100
