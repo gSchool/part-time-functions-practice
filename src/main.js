@@ -28,8 +28,7 @@
 
 
 
-// 4. Create a function called avgNum that finds the average of 6 numbers passed in when called
-//    and returns the value and is then displayed in the HTML page.
+// 4. Create a function called avgNum that finds the average of 6 numbers passed in when called.
 
 
 
