@@ -42,7 +42,7 @@
 
 
 
-// 7. Define a function called "quarter". It accepts one parameter called "number".
+// 7. Define a function called "quarter". It accepts one parameter called "number". 
 //    The function will return a value which is one quarter of the number provided.
 
 
